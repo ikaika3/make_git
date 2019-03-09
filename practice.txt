@@ -3,3 +3,4 @@ git commit
 git null
 git rm
 git status
+git diff
